@@ -1,0 +1,20 @@
+{
+  "name": "npm-s3wrapper",
+  "version": "1.0.0",
+  "description": "wrapper for s3",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec --ui bdd"
+  },
+  "dependencies": {
+    "streambuffers": "^1.0.0",
+    "when": "^3.7.2"
+  },
+  "devDependencies": {
+    "chai": "~2.1.2",
+    "mocha": "~2.2.1",
+    "buffer-equal": "0.0.1"
+  }
+  
+}
+  
